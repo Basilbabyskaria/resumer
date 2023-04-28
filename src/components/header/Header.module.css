@@ -1,6 +1,6 @@
 
 .nav{
-    background-color: #99bbff;
+    background-color: rgb(108, 99, 255);
     height: 50px;
     display: inline-flexbox;
     align-items: center;
@@ -73,7 +73,7 @@ ul{
     top: 75px;
     left: 100%;
     margin:0px 0px ;
-    background: #6C63FF;
+    background: rgb(108, 99, 255);
     transition: all 0.5s;
 }
 li{
