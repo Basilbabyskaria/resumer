@@ -8,15 +8,15 @@ font-weight: 500;
 font-size: 1rem;
 }
 input{
-border: 1.3px solid black;
+border: 1.2px solid black;
 outline: none;
 border-radius: 5px;
 padding: 10px 12px;
 font-size: 1rem;
 }
 input:hover{
-    border: 1.5px solid rgb(108, 99, 255); 
+    border: 1.2px solid rgb(108, 99, 255); 
 }
 input:focus{
-    border: 1.5px solid rgb(108, 99, 255); 
+    border: 1.2px solid rgb(108, 99, 255); 
 }
